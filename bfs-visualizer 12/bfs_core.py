@@ -19,7 +19,7 @@ DATA_DIR = Path(__file__).resolve().parent / "data"
 CARD_W, CARD_H = 100, 104      # one person card
 GAP_X = 112                    # distance between two cards in a row
 ROW_GAP = 150                  # distance between two generations
-MARGIN = 30                    # empty space around the whole tree
+MARGIN = 30                    # empty space around the whole trees
 
 # ---------- built-in demo graph (the original A-I graph) ----------
 POS = {"A": (310, 80), "B": (150, 230), "C": (470, 230), "D": (70, 380),
