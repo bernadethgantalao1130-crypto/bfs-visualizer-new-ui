@@ -1,0 +1,25 @@
+case,file,title,start,target,order,people,links,found,distance,passes,comparisons,shifts,work,full_work,pct,measured,matches_declared
+BEST,best_1_nuclear_family.csv,Mom looks for her daughter,Maria,Lia,ascending,9,13,True,1,0,1,1,2,35,5.7,BEST,yes
+BEST,best_2_grandpa_reunion.csv,Grandpa calls his son at the reunion,Ramon,Carlos,ascending,13,20,True,1,0,1,1,2,53,3.8,BEST,yes
+BEST,best_3_big_household.csv,Dad asks for his eldest child,Arman,Cris,ascending,14,22,True,1,0,2,1,3,58,5.2,BEST,yes
+AVERAGE,avg_1_cousin_reunion.csv,Finding a first cousin,Eli,Hugo,ascending,15,24,True,4,6,22,7,29,63,46.0,AVERAGE,yes
+AVERAGE,avg_2_wedding_two_families.csv,Two families meet at a wedding,Carl,Hector,ascending,13,18,True,3,7,23,8,31,49,63.3,AVERAGE,yes
+AVERAGE,avg_3_four_generations.csv,Four generations: finding a second cousin,Lou,Quin,ascending,20,31,True,6,13,46,14,60,82,73.2,AVERAGE,yes
+AVERAGE,avg_4_great_aunt.csv,Finding grandma's sister for a family photo,Xavi,Rosa,ascending,15,23,True,4,6,23,7,30,61,49.2,AVERAGE,yes
+AVERAGE,avg_5_blended_family.csv,Meeting a new stepbrother,Sal,Vic,ascending,15,19,True,3,5,18,6,24,53,45.3,AVERAGE,yes
+WORST,worst_1_deep_lineage.csv,Tracing ancestry back 8 generations,Hugo,Ansel,ascending,16,22,True,7,13,38,14,52,60,86.7,WORST,yes
+WORST,worst_2_unrelated_person.csv,Searching for someone who is not related,Rey,Zed,ascending,12,16,False,,9,26,9,35,35,100.0,WORST,yes
+WORST,worst_3_large_clan.csv,The newest baby of a large clan,Hal,Zed,ascending,26,42,True,7,23,80,24,104,110,94.5,WORST,yes
+WORST,worst_4_missing_from_registry.csv,A name missing from the family registry,Aldo,Zara,ascending,12,16,False,,11,32,11,43,43,100.0,WORST,yes
+BEST,best_1_nuclear_family.csv,Mom looks for her daughter,Maria,Lia,descending,9,13,True,1,0,6,1,7,35,20.0,BEST,yes
+BEST,best_2_grandpa_reunion.csv,Grandpa calls his son at the reunion,Ramon,Carlos,descending,13,20,True,1,0,4,1,5,53,9.4,BEST,yes
+BEST,best_3_big_household.csv,Dad asks for his eldest child,Arman,Cris,descending,14,22,True,1,0,6,1,7,58,12.1,BEST,yes
+AVERAGE,avg_1_cousin_reunion.csv,Finding a first cousin,Eli,Hugo,descending,15,24,True,4,7,30,8,38,63,60.3,AVERAGE,yes
+AVERAGE,avg_2_wedding_two_families.csv,Two families meet at a wedding,Carl,Hector,descending,13,18,True,3,5,19,6,25,49,51.0,AVERAGE,yes
+AVERAGE,avg_3_four_generations.csv,Four generations: finding a second cousin,Lou,Quin,descending,20,31,True,6,13,45,14,59,82,72.0,AVERAGE,yes
+AVERAGE,avg_4_great_aunt.csv,Finding grandma's sister for a family photo,Xavi,Rosa,descending,15,23,True,4,7,25,8,33,61,54.1,AVERAGE,yes
+AVERAGE,avg_5_blended_family.csv,Meeting a new stepbrother,Sal,Vic,descending,15,19,True,3,3,11,4,15,53,28.3,AVERAGE,yes
+WORST,worst_1_deep_lineage.csv,Tracing ancestry back 8 generations,Hugo,Ansel,descending,16,22,True,7,12,37,13,50,60,83.3,WORST,yes
+WORST,worst_2_unrelated_person.csv,Searching for someone who is not related,Rey,Zed,descending,12,16,False,,9,26,9,35,35,100.0,WORST,yes
+WORST,worst_3_large_clan.csv,The newest baby of a large clan,Hal,Zed,descending,26,42,True,7,22,75,23,98,110,89.1,WORST,yes
+WORST,worst_4_missing_from_registry.csv,A name missing from the family registry,Aldo,Zara,descending,12,16,False,,11,32,11,43,43,100.0,WORST,yes

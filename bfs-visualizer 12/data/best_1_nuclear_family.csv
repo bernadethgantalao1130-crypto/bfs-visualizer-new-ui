@@ -1,0 +1,14 @@
+person_a,person_b,relation
+Maria,Tomas,spouse
+Maria,Lia,parent
+Maria,Noel,parent
+Maria,Pia,parent
+Tomas,Lia,parent
+Tomas,Noel,parent
+Tomas,Pia,parent
+Rosa,Pedro,spouse
+Rosa,Maria,parent
+Pedro,Maria,parent
+Lola,Ben,spouse
+Lola,Tomas,parent
+Ben,Tomas,parent

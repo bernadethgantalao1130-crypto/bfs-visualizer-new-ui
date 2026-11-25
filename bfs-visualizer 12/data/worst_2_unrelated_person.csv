@@ -1,0 +1,17 @@
+person_a,person_b,relation
+Oscar,Pilar,spouse
+Oscar,Rey,parent
+Oscar,Sol,parent
+Pilar,Rey,parent
+Pilar,Sol,parent
+Rey,Tina,spouse
+Rey,Uri,parent
+Tina,Uri,parent
+Sol,Vera,spouse
+Sol,Wes,parent
+Sol,Xia,parent
+Vera,Wes,parent
+Vera,Xia,parent
+Yan,Zed,spouse
+Yan,Zoe,parent
+Zed,Zoe,parent
